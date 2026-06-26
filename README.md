@@ -15,6 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=umer0523&style=for-the-badge&color=7C5CFF&label=Profile+Views" alt="Profile views" />
 </p>
 
+> [!NOTE]
+> **Most of my work lives in private company & client repositories (under NDA)** — so this public contribution graph reflects only a small fraction of what I actually build. Across **5+ years** I've shipped **15+ production products**: multi-tenant SaaS, event-driven backends, and AI/LLM systems for high-traffic teams. See the real work on my **[portfolio →](https://umer-khalid.vercel.app)**
+
 ---
 
 ### 🧑‍💻 About me
@@ -34,6 +37,7 @@ const umer = {
 
 - 🔭 Backend-leaning full-stack engineer building production systems for high-traffic, multi-tenant SaaS.
 - 🧠 Deep in **event-driven architecture, PostgreSQL optimisation, queues & background jobs, system design and AI/LLM integration**.
+- 🤝 Most projects are **client / company work in private repos** — happy to walk through architecture and decisions on a call.
 - 🌐 Live portfolio → **[umer-khalid.vercel.app](https://umer-khalid.vercel.app)**
 
 ---

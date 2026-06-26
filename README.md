@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Umer Khalid 👋</h1>
-
 <p align="center">
   <a href="https://umer-khalid.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=7C5CFF&center=true&vCenter=true&width=720&height=60&lines=Senior+Software+Engineer;Backend+%7C+Frontend+%7C+DevOps+%7C+AI;Building+software+that+holds+up+in+production;Multi-tenant+SaaS+%26+AI+%2F+LLM+integrations" alt="Umer Khalid" />
+    <img src="./assets/banner.svg" alt="Umer Khalid — Senior Software Engineer" width="100%" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=7C5CFF&center=true&vCenter=true&width=760&height=50&lines=Building+software+that+holds+up+in+production;Multi-tenant+SaaS+%26+event-driven+backends;AI+%2F+LLM+integrations+that+actually+ship;5%2B+years+%C2%B7+15%2B+products+shipped" alt="typing" />
 </p>
 
 <p align="center">
@@ -17,12 +19,22 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 Senior Software Engineer with **5+ years** building production systems for high-traffic, multi-tenant SaaS.
-- ⚙️ Backend-leaning full-stack — I work end-to-end across **NestJS, Node.js, Next.js, React & Ruby on Rails**.
-- 🧠 Focused on **event-driven architecture, PostgreSQL optimisation, queues & background jobs, system design and AI / LLM integration**.
-- 📈 **15+ products shipped** · **99.9% uptime** on production services.
-- 📍 Based in **Lahore, Pakistan** — works across US & EU hours.
-- 🌐 Portfolio → **[umer-khalid.vercel.app](https://umer-khalid.vercel.app)**
+```ts
+const umer = {
+  role: "Senior Software Engineer",
+  focus: ["multi-tenant SaaS", "event-driven backends", "AI / LLM", "DevOps"],
+  stack: ["NestJS", "Node.js", "Next.js", "React", "Ruby on Rails", "Python", "Go"],
+  databases: ["PostgreSQL", "Prisma", "Redis", "pgvector"],
+  cloud: ["AWS", "Docker", "GitHub Actions"],
+  shipped: "15+ products", uptime: "99.9%", experience: "5+ years",
+  basedIn: "Lahore, Pakistan", worksAcross: ["US", "EU"],
+  motto: "Software that holds up in production — not just code thrown over the wall.",
+};
+```
+
+- 🔭 Backend-leaning full-stack engineer building production systems for high-traffic, multi-tenant SaaS.
+- 🧠 Deep in **event-driven architecture, PostgreSQL optimisation, queues & background jobs, system design and AI/LLM integration**.
+- 🌐 Live portfolio → **[umer-khalid.vercel.app](https://umer-khalid.vercel.app)**
 
 ---
 
@@ -47,6 +59,10 @@
   <img src="https://streak-stats.demolab.com/?user=umer0523&hide_border=true&background=05060F&stroke=1E2138&ring=7C5CFF&fire=22D3EE&currStreakLabel=7C5CFF&sideLabels=9AA0C7&dates=868CB4&currStreakNum=EAEBFF&sideNums=EAEBFF" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umer0523&theme=onedark&no-frame=true&column=7&margin-w=8&title_color=7C5CFF&text_color=9AA0C7" alt="trophies" />
+</p>
+
 ---
 
-<p align="center"><i>Software that holds up in production — not just code thrown over the wall.</i></p>
+<p align="center"><i>Let's build something that lasts. → <a href="https://umer-khalid.vercel.app">umer-khalid.vercel.app</a></i></p>
